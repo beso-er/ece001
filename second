@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title> SecondBAGE</title>
+  </head>
+  <style>
+  table, th, td {
+    border: 1px solid black;
+  }
+  </style>
+  <body>
+    <ul>
+
+      <li><a href="main bage">main</a></li>
+      <li><a href="SecondBAGE.html">banking</a></li>
+      <li><a href="thirdbage">applictaions</a></li>
+      <li><a href="digital">digital markiting</a></li>
+        <li><a href="smart p">smartphones</a></li>
+    </ul>
+    <p>big data in banking</p>
+    <img src="https://www.sas.com/en_us/insights/big-data/what-is-big-data/_jcr_content/par/styledcontainer_2086339587/par/styledcontainer_2f09/par/styledcontainer_43a9/par/image.img.jpg/1588755351732.jpg" alt="big data" width="500" height="400">
+    <table style="width:70%">
+      <tr>
+        <th>the applications</th>
+        <th>It's important</th>
+
+      </tr>
+      <tr>
+        <td>Digital Marketing</td>
+        <td>Marketing trends for the business have completely changed. Digital marketing is the key to make any business successful</td>
+
+      </tr>
+      <tr>
+        <td>Cloud Computation</td>
+        <td>Big data is improved by cloud computation. Usually, when the volume of a dataset is huge and is not manageable like the traditional databases, then we can call it big data. </td>
+
+      </tr>
+      <tr>
+        <td>Application</td>
+        <td>Cloud provides the necessary tools to extract the required data. Business’s key decisions and objectives are fixed by analyzing big data.</td>
+
+      </tr>
+    </table>
+    </body>
+      </html>>
