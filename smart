@@ -1,0 +1,31 @@
+!DOCTYPE html>
+<html>
+<head>
+  <title> Big Data</title>
+  </head>
+  <style>
+  table, th, td {
+    border: 1px solid black;
+  }
+  </style>
+  <body>
+    <ul>
+
+      <li><a href="main bage">main</a></li>
+      <li><a href="SecondBAGE.html">banking</a></li>
+      <li><a href="thirdbage">applictaions</a></li>
+      <li><a href="digital">digital markiting</a></li>
+        <li><a href="smart p">smartphones</a></li>
+    </ul>
+  <h1> big data in smartphones</h1>
+  <p>Big Data and Increasing Smartphone Penetration Drive the Demand for Mobile Data Monitoring Solutions </p>
+  <p>Moving from 2G to 3G to LTE, mobile communication technology has achieved rapid progress in the past few years, paving the way for innovation and developments in the wireless communication industry. With a rapid growth in the number of mobile subscribers and a proliferation of mobile devices and tablets, human-to machine and machine-to-machine communication platforms, service providers are facing challenges in terms of keeping up with the amount of data, demands from end-users, as well as technology developments.
+
+According to Cisco's global mobile data traffic report, the global mobile data traffic reached 885 petabytes per month by December 2012. This number is expected to reach 11.2 Exabyte per month in 2017 by growing at a CAGR of 66.0 percent. To give context on this growth, 1 Exabyte is 1024 petabytes , which is equivalent to 1 billion Gigabytes! Furthermore, as a result of increase in network connection speeds due to 3G and LTE services, the consumption of high-definition video is expected to become more prevalent. During 2012, video based applications represented 45 percent of the total mobile data consumption. Operators continue to invest in the construction of new networks through large-scale deployments in order to support the demand for bandwidth. Deployment of next-generation mobile networks requires visibility across the network in order to test and measure performance, interoperability and security. Operators are forced to address the challenge of effectively monitoring the mobile data traffic in order to address the demand from consumers for the highest quality and speeds anytime, anywhere.
+
+As the global mobile data traffic continues to increase, there will be an increased emphasis for adopting mobile data management strategy and policy control. This in turn will enable operators to optimize network policy, reduce burden on the network and enforce fair usage across all users.
+
+Big Data is one of the key drivers for mobile data monitoring solutions because of the tremendous strain it is putting on networks. Big Data is characterized by:</p>
+<img src="https://www.guru99.com/images/Big_Data/061114_0759_WhatIsBigDa2.jpg" alt="big data" width="500" height="400">
+  </body>
+  </html>
