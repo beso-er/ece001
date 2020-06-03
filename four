@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title> </title>
+  </head>
+  <style>
+  table, th, td {
+    border: 1px solid black;
+  }
+  </style>
+<body><ul>
+
+  <li><a href="index.html">main</a></li>
+  <li><a href="second">banking</a></li>
+  <li><a href="third">applictaions</a></li>
+  <li><a href="four">digital markiting</a></li>
+    <li><a href="five">smartphones</a></li>
+</ul>
+
+  <h2>How Big Data Works</h2>
+<p>Big data can be categorized as unstructured or structured. Structured data consists of information already managed by the organization in databases and spreadsheets; it is frequently numeric in nature. Unstructured data is information that is unorganized and does not fall into a pre-determined model or format. It includes data gathered from social media sources, which help institutions gather information on customer needs.
+Big data can be collected from publicly shared comments on social networks and websites, voluntarily gathered from personal electronics and apps, through questionnaires, product purchases, and electronic check-ins. The presence of sensors and other inputs in smart devices allows for data to be gathered across a broad spectrum of situations and circumstances.
+
+Big data is most often stored in computer databases and is analyzed using software specifically designed to handle large, complex data sets. Many software-as-a-service (SaaS) companies specialize in managing this type of complex data.
+</p>
+<table style="width:70%">
+  <tr>
+    <th>the applications</th>
+    <th>It's important</th>
+
+  </tr>
+  <tr>
+    <td>Banking</td>
+    <td>The use of customer data invariably raises privacy issues. By uncovering hidden connections between seemingly unrelated pieces of data, big data analytics could potentially reveal sensitive personal information. Research indicates that 62% of bankers are cautious in their use of big data due to privacy issues. Further, outsourcing of data analysis activities or distribution of customer data across departments for the generation of richer insights also amplifies security risks. Such as customers’ earnings, savings, mortgages, and insurance policies ended up in the wrong hands. Such incidents reinforce concerns about data privacy and discourage customers from sharing personal information in exchange for customized offers.</td>
+
+  </tr>
+  <tr>
+    <td>Smart Phones</td>
+    <td>Perhaps more impressive, people now carry facial recognition technology in their pockets. Users of I Phone and Android smartphones have applications at their fingertips that use facial recognition technology for various tasks. For example, Android users with the remember app can snap a photo of someone, then bring up stored information about that person based on their image when their own memory lets them down a potential boon for salespeople. </td>
+
+  </tr>
+
+</table>
+</body>
+</html>
