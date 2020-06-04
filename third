@@ -10,14 +10,14 @@
   </style>
 
   <body>
-    <ul>
+   <ul>
 
-      <li><a href="index.html">main</a></li>
-      <li><a href="SecondBAGE.html">banking</a></li>
-      <li><a href="thirdbage">applictaions</a></li>
-      <li><a href="digital">digital markiting</a></li>
-        <li><a href="smart p">smartphones</a></li>
-    </ul>
+  <li><a href="index.html">main</a></li>
+  <li><a href="second">banking</a></li>
+  <li><a href="third">applictaions</a></li>
+  <li><a href="four">digital markiting</a></li>
+    <li><a href="five">smartphones</a></li>
+</ul>
 <h1>another use of big data</h1>
     <table style="width:70%">
     <tr>
